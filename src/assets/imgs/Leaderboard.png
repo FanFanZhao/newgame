@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAhCAYAAAC803lsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAT9JREFUeNrsls9Kw0AQxr8mksQmaZuSVKt40BfwVXwWEUT0RTx586wvID6EV09ixcpG86chbRrrVHrcbkwo62UHPhb2y2Z/DLPMtKaftyimGfIsQpaEmCSMVoZ88oVpnqKcz6BpGgzLQdvxYHcDOL1gYbs+zHYHum7huyzpTIKIfSB8H4G9vfrheMRiNkaWxr++YVqwOz10/QD9wR76O0N4gyEOji+xDA3N4lng5aSy7g+bgmw8FIgCUSB1Y0vSPSbJ4BnRyzW2HbeQBXJBOhX4N7JAPJIr8H1ZNZJV+Kl6NbxXs7aiV1H+IbUbATknnQm+eSCdyACpquhdWTVSlfZY9RoFokAUiAJRIP8A0mroCUGquushZ++oYmLXa3bw/eUYcL8afuZrxoQnzv4VKSAtONmYcTr6HakQ3PH4I8AAjKFTe714ZpsAAAAASUVORK5CYII="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/imgs/Leaderboard.png
+// module id = Zc8E
+// module chunks = 14

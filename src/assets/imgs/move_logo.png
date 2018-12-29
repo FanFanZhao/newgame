@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/img/move_logo.da2faac.png";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/imgs/move_logo.png
+// module id = YI2D
+// module chunks = 14
