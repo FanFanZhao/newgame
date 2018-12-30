@@ -79,12 +79,7 @@
     }
 </script>
 <style lang="less">
-    @import '../../assets/public.less';
-    @import './index.less';
-	@import "index.less";
+    // @import '../../assets/public.less';
+    // @import './index.less';
+	// @import "index.less";
 </style>
-
-
-
-// WEBPACK FOOTER //
-// src/components/adresslist/index.vue

@@ -512,15 +512,12 @@
     }
 </script>
 <style lang="less">
-    @import '../../assets/public.less';
-    @import './index.less';
+    // @import '../../assets/public.less';
+    // @import './index.less';
 	.yanzhan{
-		color:@DaiDorderColor11 !important;
+		color:red !important;
 		cursor:pointer;
 	}
 </style>
 
 
-
-// WEBPACK FOOTER //
-// src/components/security/index.vue

@@ -211,8 +211,8 @@
     }
 </script>
 <style lang="less">
-    @import '../../assets/public.less';
-    @import './index.less';
+    // @import '../../assets/public.less';
+    // @import './index.less';
     #login{
         .login_main{
             .logo{
@@ -240,6 +240,3 @@
 </style>
 
 
-
-// WEBPACK FOOTER //
-// src/components/forgetthe/forgetthe.vue

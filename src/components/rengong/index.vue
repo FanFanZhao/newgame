@@ -60,8 +60,8 @@
     }
 </script>
 <style lang="less">
-    @import '../../assets/public.less';
-    @import './index.less';
+    // @import '../../assets/public.less';
+    // @import './index.less';
     #rengong{
         .rengong_main{
             .code_img{
@@ -103,6 +103,3 @@
 </style>
 
 
-
-// WEBPACK FOOTER //
-// src/components/rengong/index.vue

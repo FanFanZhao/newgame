@@ -67,14 +67,14 @@
     }
 </script>
 <style lang="less">
-    @import '../../assets/public.less';
-    @import './index.less';
+    // @import '../../assets/public.less';
+    // @import './index.less';
     .help_right_define{
         margin-bottom:70px;
         .define_head {
             //font-size: @h8FontSize;
             padding-bottom: 30px;
-            border-bottom: 1px solid @DaiDorderColor8;
+            border-bottom: 1px solid RED;
             margin-bottom: 18px;
         }
         p{
@@ -89,7 +89,7 @@
             .define_head {
                 /*font-size: 0.32rem;*/
                 padding-bottom: 0.3rem;
-                border-bottom: 0.01rem solid @DaiDorderColor8;
+                border-bottom: 0.01rem solid RED;
                 margin-bottom: 0.18rem;
             }
             p{
@@ -101,6 +101,3 @@
 </style>
 
 
-
-// WEBPACK FOOTER //
-// src/components/playintruduce/index.vue

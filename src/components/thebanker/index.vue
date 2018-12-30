@@ -399,12 +399,8 @@
     }
 </script>
 <style lang="less">
-    @import '../../assets/public.less';
-    @import './index.less';
-    @import './indexmove.less';
+    // @import '../../assets/public.less';
+    // @import './index.less';
+    // @import './indexmove.less';
 </style>
 
-
-
-// WEBPACK FOOTER //
-// src/components/thebanker/index.vue

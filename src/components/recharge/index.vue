@@ -110,15 +110,11 @@
     }
 </script>
 <style lang="less">
-    @import '../../assets/public.less';
-    @import './index.less';
-    @import "index.less";
+    // @import '../../assets/public.less';
+    // @import './index.less';
+    // @import "index.less";
     #login_footer{
         padding-bottom: 30px !important;
     }
 </style>
 
-
-
-// WEBPACK FOOTER //
-// src/components/recharge/index.vue

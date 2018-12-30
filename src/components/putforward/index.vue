@@ -210,8 +210,8 @@
     }
 </script>
 <style lang="less">
-    @import '../../assets/public.less';
-    @import './index.less';
+    // @import '../../assets/public.less';
+    // @import './index.less';
 
 	//提币地址图标样式
 	#go-address{
@@ -235,7 +235,3 @@
 	}
 </style>
 
-
-
-// WEBPACK FOOTER //
-// src/components/putforward/index.vue

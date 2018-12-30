@@ -1,8 +1,8 @@
 <style lang="less">
-    @import '../../assets/public.less';
-    @import './style.less';
-    @import './index.less';
-    @import './indexmove.less';
+    // @import '../../assets/public.less';
+    // @import './style.less';
+    // @import './index.less';
+    // @import './indexmove.less';
 	#app{
 		position:relative;
 		z-index: 1000;
@@ -18,7 +18,7 @@
 				width:100%;
 			}
 			.ivu-icon{
-				font-size: @h1FontSize;
+				font-size: 14px;
 				position: relative;
 				top: -5px;
 				left: 70px;
@@ -105,6 +105,3 @@
 </script>
 
 
-
-// WEBPACK FOOTER //
-// src/components/home/index.vue

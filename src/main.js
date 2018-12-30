@@ -15,7 +15,7 @@ import VueClipboard from 'vue-clipboard2';//加载复制插件
 import VueCookies from 'vue-cookies'//加载cookie
 
 
-import indexcss from './assets/index.less'; //加载接口文件
+// import indexcss from './assets/index.less'; //加载接口文件
 
 import echarts from 'echarts';
 // 引入折线图
@@ -52,7 +52,3 @@ new Vue({
   template: '<App/>'
 })
 
-
-
-// WEBPACK FOOTER //
-// ./src/main.js
